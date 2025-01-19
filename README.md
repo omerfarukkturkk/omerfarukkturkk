@@ -1,4 +1,4 @@
-<h3 align="center">A passionate test automation engineer from Türkiye</h3>
+<h3 align="center">A passionate Software Test Engineer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Automation Projects**
 
